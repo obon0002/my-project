@@ -1,2 +1,2 @@
 # my GitHub Project
-Repository for my GitHub project.
+## By Marc O'Bonsawin
